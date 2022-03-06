@@ -70,9 +70,9 @@ The government does not borrow, just issues more money
 The government never goes bankrupt.
 
 ### Quantity Theory
-
+```
 MV = PQ
-
+```
 M: Money supply
 V: Velocity
 P: Average price levels
