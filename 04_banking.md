@@ -281,3 +281,95 @@ iii. Branching restrictions
 Banks were not allowed to open branches outside of the state of their headquarters. This resulted in:
 * bank holding companies, corporations that own several different companies
 * ATMs
+
+
+## Economies of scope
+
+The ability to use one resource to provide many different products and services, eg., details about the
+quality of firms not only informs decisions about whether to make loans to them but also can be useful in
+determining at what price their shares should trade.
+
+"Synergies" between different lines of business, and IT is making these synergies more likely.
+
+
+## Bank consolidation
+
+Banks merging across states.
+
+Concerns:
+i. it may lead to a reduction in lending to small businesses
+ii. banks rushing to expand into new geographic markets may take increased risks leading to bank failures
+
+
+## Banking frameworks
+
+### Universal banking
+
+*Found in Germany, Netherlands, Switzerland*
+
+No separation at all between the banking and securities industries. It includes real estate and insurance
+services. Allowed to own sizable equity shares in commercial firms.
+
+### British-style universal banking
+
+Differs from universal in:
+i. separate legal subsidiaries are more common
+ii. bank equity holding of commercial firms is less common
+iii. combination of banking and insurance firms is less common
+
+### More like British-style (Japan)
+
+The major difference is Japanese banks are allowed to hold substantial equity in commercial firms. Also, the
+bank holding company structure is illegal.
+
+
+## Foreign Exchange Market
+
+Exchange rate is the price of one currency in terms of another.
+
+Trade between two countries involves the mutual exchange of different currencies.
+The trading of currencies and bank deposits denominated in particular currencies takes place in the foreign
+exchange market.
+
+Two kinds of foreign exchange rate transactions:
+1. spot transactions, immediate (2 days) exchange of bank deposits
+2. forward transactions, exchange of bank deposits at some specified future date
+
+When a country's currency appreciates, ie., rises in value relative to other currencies, the country's goods
+abroad become more expensive and foreign goods in that country become cheaper.
+
+### Factors affecting exchange rates
+
+*When X goes up (🡥), the exchange rate of foreign currency per domestic unit of currency changes (🡥 or 🡧)*
+
+1. Relative price levels (🡥 🡧)
+2. Trade barriers (🡥 🡥)
+3. Import demand (🡥 🡧)
+4. Export demand (🡥 🡥)
+5. Productivity (🡥 🡥)
+
+### Exchange rates in the short run
+
+The price of domestic assets (bank deposits, bonds, equities, etc.) denominated in the domestic currency in
+terms of foreign assets denominated in the foreign currency.
+
+### Shifts in the demand for domestic assets
+
+1. Domestic interest rate* (🡥 🡥)
+2. Foreign interest rate (🡥 🡧)
+3. Changes in the expected future exchange rate
+
+*The Fischer equation states that nominal interest rate equals real interest rate plus inflation. If inflation
+increases, the demand for domestic assets actually falls!
+
+### Interest parity
+
+The interest parity condition shows the relationship between domestic interest rates, foreign interest rates,
+and the expected appreciation of the domestic currency.
+
+```
+iᵈ = iᶠ - (Eₜ₊₁ - Eₜ)/ Eₜ
+```
+
+The **d**omestic interest rate equals the **f**oreign interest rate minues the expected appreciation of the
+domestic currency.

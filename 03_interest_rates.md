@@ -115,7 +115,7 @@ quantity demand.
 
 ### Shifts in the demand of bonds
 
-*When # goes X, bonds go Y*
+*When X goes up (🡥), bonds go 🡥 or 🡧*
 
 1. Wealth 🡥 🡥
 2. Interest rates 🡥 🡧
@@ -132,7 +132,7 @@ quantity demand.
 
 **Ceteris paribus**: When a variable change is examined, all other variables are assumed to stay constant.
 
-**Fisher effect** *: When expected inflation rises, expected interest rates rise because bond prices fall and
+\***Fisher effect**: When expected inflation rises, expected interest rates rise because bond prices fall and
 bond prices negatively affect interest rates. Confirmed by empirical observation.
 
 
