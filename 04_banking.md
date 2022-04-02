@@ -27,10 +27,9 @@ Difference between assets and liabilities. The bank's net worth.
 
 1. Reserves
 
-i. Required assets, as imposed by the central bank. A percentage of the bank's
+* Required assets, as imposed by the central bank. A percentage of the bank's
 deposits.
-
-ii. Excess reserves, held by the bank to meet withdraw obligations
+* Excess reserves, held by the bank to meet withdraw obligations
 
 2. Cash items in process of collection
 
@@ -40,9 +39,9 @@ For example, deposited checks from other banks
 
 4. Securities
 
-i. US government securities
-ii. State and local government securities
-iii. other securities
+* US government securities
+* State and local government securities
+* Other securities
 
 5. Loans
 
@@ -77,6 +76,7 @@ earning assets (opportunity cost).
 requirements w/o bearing huge costs. Hold liquid securities even if their return is lower
 than others
 
+```
 ____________________________________________________________
 | **How banks earn profits**                                |
 |                                                           |
@@ -87,6 +87,7 @@ ____________________________________________________________
 |  2. Selling services                                      |
 |     Cheque clearing, record keeping, credit analysis      |
 _____________________________________________________________
+```
 
 ### Liability management
 
@@ -117,9 +118,9 @@ Ways to mitigate:
 Assymetric information is when lenders have less information about the investment opportunities
 and activities of borrowers than borrowers do.
 
-i. Screening
-ii. Specialization in lending
-iii. Monitoring and enforcement of restrictive covenants
+* Screening
+* Specialization in lending
+* Monitoring and enforcement of restrictive covenants
 
 2. Long-term customer relationships
 
@@ -183,20 +184,20 @@ from a bank's sheet.
 
 2. Generation of fee income sources
 
-i. specialized services to customers such as making foreign exchange trades.
-ii. servicing a mortgage-backed security by collecting interest and principal payments and then paying
+* specialized services to customers such as making foreign exchange trades.
+* servicing a mortgage-backed security by collecting interest and principal payments and then paying
 them out.
-iii. guaranteeing debt securities
-iv. backup lines of credit
+* guaranteeing debt securities
+* backup lines of credit
 
 3. Trading activities and risk management techniques
 
 Speculation in the foreign exchange market.
 
 Subject to the principal-agent problem. Solve with:
-i. separation of people in charge of trading activities from those in charge of bookkeeping for trades
-ii. set limits on the total amount of trader transactions
-iii. securitize risk assessment procedures using latest technology
+* separation of people in charge of trading activities from those in charge of bookkeeping for trades
+* set limits on the total amount of trader transactions
+* securitize risk assessment procedures using latest technology
 
 Value-at-risk approach: calculate the maximum loss a portfolio is likely to sustain over a given time
 
@@ -297,8 +298,8 @@ determining at what price their shares should trade.
 Banks merging across states.
 
 Concerns:
-i. it may lead to a reduction in lending to small businesses
-ii. banks rushing to expand into new geographic markets may take increased risks leading to bank failures
+* it may lead to a reduction in lending to small businesses
+* banks rushing to expand into new geographic markets may take increased risks leading to bank failures
 
 
 ## Banking frameworks
@@ -313,9 +314,9 @@ services. Allowed to own sizable equity shares in commercial firms.
 ### British-style universal banking
 
 Differs from universal in:
-i. separate legal subsidiaries are more common
-ii. bank equity holding of commercial firms is less common
-iii. combination of banking and insurance firms is less common
+* separate legal subsidiaries are more common
+* bank equity holding of commercial firms is less common
+* combination of banking and insurance firms is less common
 
 ### More like British-style (Japan)
 

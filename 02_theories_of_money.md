@@ -11,7 +11,7 @@ Reality: there was never a general economic system based on barter.
 Orthodox theory assumes rational actors. It is prevalent because of political and power
 struggles.
 
-### Metallism (Commodity theory)
+### Commodity theory (Metallism)
 
 The value of money is derived from the purchasing power of the commodity upon which it is based.
 
@@ -73,10 +73,13 @@ The government never goes bankrupt.
 ```
 MV = PQ
 ```
+where:
+```
 M: Money supply
 V: Velocity
 P: Average price levels
 Q: Goods and services
+```
 
 General price level of goods and services is directly proportional to the amount of money
 in circulation.

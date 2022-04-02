@@ -57,9 +57,9 @@ Useful to know because:
 
 ### Money aggregates
 
-M0: monetary base (high-powered money)
-M1: liquid assets (currency and checking accounts)
-M2: M1 + less liquid assets (saving accounts, time deposits, money market accounts)
+* M0: monetary base (high-powered money)
+* M1: liquid assets (currency and checking accounts)
+* M2: M1 + less liquid assets (saving accounts, time deposits, money market accounts)
 
 ## History of money
 

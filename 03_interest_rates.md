@@ -5,11 +5,12 @@ Pv = Cf / (1 + i)ⁿ
 ```
 
 where:
-
+```
 Pv: present value
 Cf: cash flow
 i: annual interest rate
 n: years to maturity
+```
 
 Simple interest rate equals the yield to maturity for **simple loans**.
 
@@ -32,11 +33,12 @@ P = (C / (1 + i)) + (C / (1 + i)²) + ... + (C / (1 + i)ⁿ) + (F / (1 + i)ⁿ)
 ```
 
 where:
-
+```
 P: price of coupon bond
 C: yearly coupon bond payment
 F: face value of the bond
 n: years to maturity
+```
 
 **Discound bonds**
 
@@ -68,10 +70,11 @@ r = i - pᵢ
 ```
 
 where:
-
+```
 r: real interest rate
 i: nominal interest rate
 pᵢ: expected inflation rate
+```
 
 When the real interest rate is low, there are greater incentives to borrow and fewer incentives to lend.
 
@@ -83,9 +86,9 @@ r = i(1 - t) - pᵢ
 ```
 
 where:
-
+```
 t: income tax rate
-
+```
 
 ## Theory of portfolio choice
 
@@ -151,11 +154,12 @@ M / P = L(i, Q)  (1)
 ```
 
 where:
-
+```
 M: Money supply
 P: Average price levels
 L: Liquidity
 i: interest rates
+```
 
 Remember the formula from Quantity Theory:
 
