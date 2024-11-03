@@ -7,3 +7,7 @@ easy to grok for anyone who wants to learn about economics.
 Note that nothing in this repository is financial or investment advice and it may
 also be wildly inaccurate (happy to accept pull requests with fixes!). Use at your
 own risk!
+
+The assets provided in `assets/The_weaponization_of_centralized_finance` are not mine
+but come from a QCP Capital report from 2022.
+
